@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Donnas-MacBook-Air.local 20.6.0 Darwin Kernel Version 20.6.0: Tue Apr 19 21:04:45 PDT 2022; root:xnu-7195.141.29~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/bin/git] git version 2.32.0 (Apple Git-132)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr  7 2022 22:12:27)
+CURL:	[/Users/donnahan/opt/anaconda3/bin/curl] curl 7.84.0 (x86_64-apple-darwin13.4.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/donnahan/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
